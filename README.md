@@ -1,9 +1,14 @@
 Algorithmic trading
+
 Blockchain
+
 Big data
+
 Machine learning
 
+
 Russel.
+
 russel.docs@gmail.com
 
 <!---

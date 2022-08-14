@@ -1,10 +1,8 @@
-Algorithmic trading
-
-Blockchain
-
-Big data
-
-Machine learning
+I am interested in the following:
+- Backend development
+- Algorithmic trading
+- IoT (No project yet, but greatly piques my interest)
+- VR programming (No projects yet, but greatly piques my interest)
 
 
 Russel.

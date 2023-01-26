@@ -1,5 +1,6 @@
 I am interested in the following:
 - Backend development
+- Fintech
 - Algorithmic trading
 - IoT (No project yet, but greatly piques my interest)
 - VR programming (No projects yet, but greatly piques my interest)
